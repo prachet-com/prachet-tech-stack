@@ -20,6 +20,6 @@ Tech stack that is used at Prachet Infotech
     * Twilio for sending SMS.
 * **UX**
   * Figma?
-* **Managing data
+* **Managing data**
   * Confluence
   * Google sheets
