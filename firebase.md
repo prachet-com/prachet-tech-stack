@@ -1,4 +1,4 @@
-# Firebase, GCP learning
+# Firebase
 
 * firebase
     * firebase auth
@@ -7,6 +7,7 @@
         * https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ
     * Crashlytics
         * https://www.youtube.com/watch?v=k_mdNRZzd30
+        * https://www.youtube.com/watch?v=DFcr0k2nrP4&pbjreload=101
     * Firebase deep links
         * https://www.youtube.com/watch?v=LvY1JMcrPF8
     * Remote config
@@ -17,5 +18,4 @@
         * https://www.youtube.com/watch?v=sioEY4tWmLI
     * Firebase hosting
         * https://www.youtube.com/watch?v=jsRVHeQd5kU
-    
     
