@@ -23,3 +23,5 @@ Tech stack that is used at Prachet Infotech
 * **Managing data**
   * Confluence
   * Google sheets
+* [Video recording](./video_recording.md)
+
