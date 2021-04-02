@@ -1,10 +1,8 @@
 # prachet-tech-stack
 Tech stack that is used at Prachet Infotech
 
-* **Frontend**
-  * Dart, Flutter, Git, Github
-  * Pub.dev packages
-    * Dio, Provider
+* **[Frontend](./frontend.md)**
+
 * **Services**
   * **Must have**: Javascript, Typescript, npm, data structures and algorithms, logical thinking, Git, Github.
   * **Good to have**
