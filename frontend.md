@@ -10,8 +10,10 @@
   * State Management Architectures
     * BLoC Architecture.
   * An App published to play store.
-* **Ideal/Bonus Points**
-  * [Have implemented Flutter project using Jhipster](https://www.npmjs.com/package/generator-jhipster-flutter-merlin)
+
+[comment]: <> (* **Ideal/Bonus Points**)
+
+[comment]: <> (  * [Have implemented Flutter project using Jhipster]&#40;https://www.npmjs.com/package/generator-jhipster-flutter-merlin&#41;)
   
 
 * [Frontend learning resources](./frontend-learning-resources.md)
