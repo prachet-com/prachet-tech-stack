@@ -1,15 +1,17 @@
 # Frontend requirements
 
-* Dart, Flutter, Git, Github
-* Pub.dev packages
-    * Responsive layouts
-    * Dio, Provider
-    * Intl (Internationalization) https://pub.dev/packages/intl
-* DS, Algo, logical thinking.
-* Should have at least one app published on Play store.
-* [Frontend learning resources](./frontend-learning-resources.md)
+* **Must have**
+  * Dart, Flutter, Git, Github
+  * Logical thinking.
+  * [Flutter principle described in this course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+* **Good to have**
+  * Data Structures and Algorithms.
+  * Responsive layouts experience
+  * State Management Architectures
+    * BLoC Architecture.
+  * An App published to play store.
+* **Ideal/Bonus Points**
+  * [Have implemented Flutter project using Jhipster](https://www.npmjs.com/package/generator-jhipster-flutter-merlin)
+  
 
-    
-* Selection Process
-    * 2 hands on interviews.
-    * 1 HR round
+* [Frontend learning resources](./frontend-learning-resources.md)
