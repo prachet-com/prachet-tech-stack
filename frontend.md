@@ -7,6 +7,7 @@
     * Intl (Internationalization) https://pub.dev/packages/intl
 * DS, Algo, logical thinking.
 * Should have at least one app published on Play store.
+* [Frontend learning resources](./frontend-learning-resources.md)
 
     
 * Selection Process
