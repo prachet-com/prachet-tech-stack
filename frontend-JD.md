@@ -1,4 +1,4 @@
-# Frontend requirements
+# Frontend requirements JD
 
 * **Must have**
   * Dart, Flutter, Git, Github
